@@ -1,6 +1,6 @@
 # hello-world
 asdf
-#go commit die
+
 sadboi@uBantu:~$ sudo apt-get install will-to-live
 [sudo] password for sadboi: 
 Reading package lists... Done
