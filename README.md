@@ -1,3 +1,17 @@
 # hello-world
 asdf
-This is a demo. nothing serious. i wanna kill myself haha. i hate my life. im an underachiever who can't do anything right. lol. kill me. 
+#go commit die
+sadboi@uBantu:~$ sudo apt-get install will-to-live
+[sudo] password for sadboi: 
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+E: Unable to locate package will-to-live
+sadboi@uBantu:~$ sudo rm -rf /
+...
+..
+.
+.
+.
+.
+.
