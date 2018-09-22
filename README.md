@@ -1,4 +1,4 @@
-# hello-world
+hello-world
 asdf
 
 sadboi@uBantu:~$ sudo apt-get install will-to-live
